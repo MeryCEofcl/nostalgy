@@ -1,0 +1,10 @@
+{
+  "name": "nostalgia, por que nos consume",
+  "description": "A fog aesthetic psychological blog about nostalgia.",
+  "version": "1.0.0",
+  "main": "main.py",
+  "author": "Mery C.E",
+  "dependencies": {
+    "flask": "latest"
+  }
+}
